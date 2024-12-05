@@ -30,8 +30,10 @@ The project focuses on enabling a robot to autonomously navigate from a start lo
 ## Installation
 1. Clone this repository:
     ```bash
+    mkdir autonomous-parking
+     cd autonomous-parking
     git clone https://github.com/your-repo/autonomous-parking.git
-    cd autonomous-parking
+   
     ```
 
 2. Install required dependencies:
