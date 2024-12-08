@@ -48,7 +48,7 @@ The project focuses on enabling a robot to autonomously navigate from a start lo
 ## Usage
 1. Launch the robot and simulation environment:
     ```bash
-    ros2 launch turtlebot3_fake_node turtlebot3_fake_node
+    ros2 launch turtlebot3_fake_node turtlebot3_fake_node.launch.py
     ```
 
 2. Run the autonomous parking node:
